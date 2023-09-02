@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Surveer Singh Guglani, a fresher at NSUT CSE branch.
+- 👀 I’m interested in learning new technologies and exploring domains like AI and ML.
+- 🌱 I’m currently learning C++.
+- 📫 I can be reached at surveersinghguglani@gmail.com.
